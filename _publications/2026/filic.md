@@ -1,5 +1,5 @@
 ---
-title:          "OmniDP: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception"
+title:          "FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks"
 date:           2026-05-12 00:01:00 +0800
 selected:       true
 pub:            "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
@@ -11,16 +11,15 @@ pub_date:       "2026"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
 
-cover:          /assets/images/covers/OmniDP2.png
+cover:          /assets/images/covers/filic.png
 authors:
-  - Pei Qu*
+  - Haizou Ge*
+  - Yufei Jia*
   - Zheng Li*
-  - Yufei Jia
-  - Ziyun Liu
-  - Liang Zhu
-  - Haoang Li
-  - Jinni Zhou
-  - Jun Ma
+  - Yue Li*
+  - Zhixing Chen*
+  - Ruqi Huang
+  - Guyue Zhou
 links:
-  Paper: https://arxiv.org/pdf/2603.05355
+  Paper: https://arxiv.org/pdf/2509.17053
 ---

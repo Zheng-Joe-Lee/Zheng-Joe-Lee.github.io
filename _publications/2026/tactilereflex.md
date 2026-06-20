@@ -1,5 +1,5 @@
 ---
-title:          "OmniDP: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception"
+title:          "TactileReflex: Noise-Statistics-Driven Vision-Tactile Reflex Control for Force-Sensitive Manipulation"
 date:           2026-05-12 00:01:00 +0800
 selected:       true
 pub:            "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
@@ -11,16 +11,17 @@ pub_date:       "2026"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
 
-cover:          /assets/images/covers/OmniDP2.png
+cover:          /assets/images/covers/TR.png
 authors:
-  - Pei Qu*
-  - Zheng Li*
-  - Yufei Jia
-  - Ziyun Liu
-  - Liang Zhu
-  - Haoang Li
+  - Ziyan Feng
+  - Yulong Fu
+  - Zheng Li
+  - Yuxin He
+  - Jieji Ren
+  - Lujia Wang
   - Jinni Zhou
-  - Jun Ma
+  - Yudong Zhong
+  - Qiang Nie
 links:
-  Paper: https://arxiv.org/pdf/2603.05355
+  Paper: https://arxiv.org/pdf/2605.23568
 ---
