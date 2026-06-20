@@ -1,6 +1,6 @@
 ---
 title:          "GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning"
-date:           2026-05-12 00:01:00 +0800
+date:           2026-09-12 00:01:00 +0800
 selected:       false
 pub:            "Robotics: Science and Systems (RSS)"
 # pub_pre:        "Submitted to "
