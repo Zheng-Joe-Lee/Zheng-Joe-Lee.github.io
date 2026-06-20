@@ -1,6 +1,6 @@
 ---
 title:          "ManiVID-3D: Generalizable View-Invariant Reinforcement Learning for Robotic Manipulation via Disentangled 3D Representations"
-date:           2026-01-05 00:01:00 +0800
+date:           2026-12-05 00:01:00 +0800
 selected:       true
 pub:            "IEEE Robotics and Automation Letters (RA-L)"
 pub_date:       "2026"

@@ -1,6 +1,6 @@
 ---
 title:          "FILIC: Dual-Loop Force-Guided Imitation Learning with Impedance Torque Control for Contact-Rich Manipulation Tasks"
-date:           2026-05-12 00:01:00 +0800
+date:           2026-10-12 00:01:00 +0800
 selected:       true
 pub:            "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 # pub_pre:        "Submitted to "
