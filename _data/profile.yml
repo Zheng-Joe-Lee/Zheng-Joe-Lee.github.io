@@ -36,11 +36,11 @@ portrait_caption: >-
 
 education:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/HKUST.png
+  logo: /assets/images/badges/HKUST_2.jpg
   position: Upcoming Ph.D. Student
   date: Sep. 2026 - 
 - name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/HKUST.png
+  logo: /assets/images/badges/HKUST_2.jpg
   position: M.Phil. in Robotics and Autonomous Systems
   date: Sep. 2024 - Oct. 2026
 - name: Zhejiang University
@@ -58,7 +58,7 @@ awards:
 
 experience:
 - name: Wuji Technology
-  logo: /assets/images/badges/WUJI_2.png
+  logo: /assets/images/badges/WUJI_3.jpg
   position: Algorithm Intern
   date: Jun. 2026 - Present
 - name: Institute for AI Industry Research, Tsinghua University
