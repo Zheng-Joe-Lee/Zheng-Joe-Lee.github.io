@@ -1,6 +1,6 @@
 ---
 title:          "TactileReflex: Noise-Statistics-Driven Vision-Tactile Reflex Control for Force-Sensitive Manipulation"
-date:           2026-05-12 00:01:00 +0800
+date:           2026-07-12 00:01:00 +0800
 selected:       false
 pub:            "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 # pub_pre:        "Submitted to "
