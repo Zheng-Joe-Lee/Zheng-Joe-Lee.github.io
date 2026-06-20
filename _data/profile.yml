@@ -37,21 +37,15 @@ portrait_caption: >-
 education:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST.png
-  position: >- 
-    Robotics and Autonomous Systems Trust <br/>
-    Upcoming Ph.D. Student
+  position: Upcoming Ph.D. Student
   date: Sep. 2026 - 
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST.png
-  position: >- 
-    Robotics and Autonomous Systems Trust <br/>
-    M.Phil. in Robotics and Autonomous Systems
+  position: M.Phil. in Robotics and Autonomous Systems
   date: Sep. 2024 - Oct. 2026
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU.png
-  position: >- 
-    College of Control Science and Engineering
-    B.Eng. in Automation
+  position: B.Eng. in Automation
   date: Sep. 2019 - Jun. 2023
 
 awards:
