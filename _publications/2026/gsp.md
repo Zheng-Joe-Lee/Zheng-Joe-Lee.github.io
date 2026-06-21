@@ -13,11 +13,11 @@ abstract: >-
 
 cover:          /assets/images/covers/gsp.png
 authors:
-  - Yufei Jia
-  - Heng Zhang
-  - Ziheng Zhang
-  - Junzhe Wu
-  - Mingrui Yu
+  - Yufei Jia*
+  - Heng Zhang*
+  - Ziheng Zhang*
+  - Junzhe Wu*
+  - Mingrui Yu*
   - Zifan Wang
   - Dixuan Jiang
   - Zheng Li

@@ -13,12 +13,12 @@ abstract: >-
 
 cover:          /assets/images/covers/UniLab.png
 authors:
-  - Yufei Jia
-  - Zhanxiang Cao
-  - Mingrui Yu
-  - Heng Zhang
-  - Shenyu Chen
-  - Dixuan Jiang
+  - Yufei Jia*
+  - Zhanxiang Cao*
+  - Mingrui Yu*
+  - Heng Zhang*
+  - Shenyu Chen*
+  - Dixuan Jiang*
   - Meng Li
   - Xiaofan Li
   - Yiyang Liu
