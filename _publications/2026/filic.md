@@ -13,7 +13,7 @@ abstract: >-
 
 cover:          /assets/images/covers/filic.png
 authors:
-  - Haizou Ge*
+  - Haizhou Ge*
   - Yufei Jia*
   - Zheng Li*
   - Yue Li*
