@@ -19,4 +19,7 @@ authors:
 - Jun Ma
 links:
   Paper: https://arxiv.org/pdf/2509.11125
+  RA-L: https://doi.org/10.1109/LRA.2026.3662647
+  Webpage: https://zheng-joe-lee.github.io/manivid3d/
+  Code: https://github.com/Zheng-Joe-Lee/ManiVID-3D
 ---

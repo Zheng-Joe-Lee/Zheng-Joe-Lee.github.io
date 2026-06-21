@@ -27,4 +27,7 @@ authors:
   - et al.
 links:
   Paper: https://arxiv.org/pdf/2605.30313
+  Webpage: https://unilabsim.github.io/
+  Code: https://github.com/unilabsim/UniLab
+  Docs: https://unilabsim.github.io/UniLab-doc/
 ---

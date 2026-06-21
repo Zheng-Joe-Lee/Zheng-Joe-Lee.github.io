@@ -22,4 +22,5 @@ authors:
   - Guyue Zhou
 links:
   Paper: https://arxiv.org/pdf/2509.17053
+  Code: https://github.com/OpenGHz/FILIC
 ---

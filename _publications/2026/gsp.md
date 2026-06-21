@@ -24,4 +24,6 @@ authors:
   - et al.
 links:
   Paper: https://arxiv.org/pdf/2604.25459
+  Webpage: https://github.com/discoverse-dev/gs_playground
+  Code: https://github.com/discoverse-dev/gs_playground
 ---
