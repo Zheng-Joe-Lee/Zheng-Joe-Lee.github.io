@@ -22,12 +22,12 @@ orcid: 0009-0005-7182-444X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hi! I am Zheng LI, a Ph.D. candidate in Robotics at <a href="https://www.hkust-gz.edu.cn/" target="_blank">The Hong Kong University of Science and Technology (Guangzhou)</a>, supervised by Prof. <a href="https://personal.hkust-gz.edu.cn/junma/index.html" target="_blank">Jun MA</a>. Prior to this, I completed my B.Eng. in Automation at <a href="http://ckc.zju.edu.cn/" target="_blank">Chu Kochen Honors College, Zhejiang University</a> in 2019. In addition to my research, I serve as a reviewer for ICRA, RA-L, and other robotics conferences and journals.  
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My work centers on robot learning, multimodal perception for manipulation, and interpretable representation learning.
+    My research aspires to establish a principled framework that fuses heterogeneous sensory streams (e.g., vision, proprioception, and tactile sensing) through structured attention and semantically consistent alignment,
+    with the ultimate goal of unlocking generalizable intelligence that transcends task-specific engineering and empowers robots to operate robustly in the open world over extended timescales.
   </p>
 
 portrait_url: /assets/images/photos/zhengli.png
