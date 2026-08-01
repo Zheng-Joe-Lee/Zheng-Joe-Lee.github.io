@@ -25,8 +25,8 @@ short_bio: >-
     Hi! I am Zheng LI, a Ph.D. candidate in Robotics at <a href="https://www.hkust-gz.edu.cn/" target="_blank">The Hong Kong University of Science and Technology (Guangzhou)</a>, supervised by Prof. <a href="https://personal.hkust-gz.edu.cn/junma/index.html" target="_blank">Jun MA</a>. Prior to this, I completed my B.Eng. in Automation at <a href="http://ckc.zju.edu.cn/" target="_blank">Chu Kochen Honors College, Zhejiang University</a> in 2019. In addition to my research, I serve as a reviewer for ICRA, RA-L, and other robotics conferences and journals.  
   </p>
   <p>
-    My work centers on robot learning, multimodal perception for manipulation, and interpretable representation learning.
-    My research aspires to establish a principled framework that fuses heterogeneous sensory streams (e.g., vision, proprioception, and tactile sensing) through structured attention and semantically consistent alignment,
+    My research interests centers on robot learning, multimodal perception for manipulation, and interpretable representation learning.
+    My work aspires to establish a principled framework that fuses heterogeneous sensory streams (e.g., vision, proprioception, and tactile sensing) through structured attention and semantically consistent alignment,
     with the ultimate goal of unlocking generalizable intelligence that transcends task-specific engineering and empowers robots to operate robustly in the open world over extended timescales.
   </p>
 
