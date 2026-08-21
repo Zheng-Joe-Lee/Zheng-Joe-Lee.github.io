@@ -11,7 +11,7 @@ pub_date:       "2026"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
 
-cover:          /assets/images/covers/tac4loco.png
+cover:          /assets/images/covers/tac4loco2.png
 authors:
   - Ziyun Liu
   - Sikai Guo
