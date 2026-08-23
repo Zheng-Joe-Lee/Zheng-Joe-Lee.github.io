@@ -18,6 +18,8 @@ authors:
   - Zheng Li*
   - Yue Li*
   - Zhixing Chen*
+  - Lu Shi
+  - Lei Han
   - Ruqi Huang
   - Guyue Zhou
 links:
