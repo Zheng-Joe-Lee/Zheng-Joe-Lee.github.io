@@ -57,10 +57,10 @@ awards:
   date: Jun. 2023
 
 experience:
-- name: Leapmotor Technology (零跑科技)
-  logo: /assets/images/badges/leapmotor.png
-  position: Algorithm Intern
-  date: Sep. 2026 - Present
+# - name: Leapmotor Technology (零跑科技)
+#   logo: /assets/images/badges/leapmotor.png
+#   position: Algorithm Intern
+#   date: Sep. 2026 - Present
 - name: Wuji Technology (舞肌科技)
   logo: /assets/images/badges/WUJI_3.jpg
   position: Algorithm Intern
